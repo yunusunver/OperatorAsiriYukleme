@@ -1,0 +1,6 @@
+c:\users\myvalley\documents\visual studio 2015\Projects\OperatorAsiriYukleme\OperatorAsiriYukleme\bin\Debug\OperatorAsiriYukleme.exe.config
+c:\users\myvalley\documents\visual studio 2015\Projects\OperatorAsiriYukleme\OperatorAsiriYukleme\bin\Debug\OperatorAsiriYukleme.exe
+c:\users\myvalley\documents\visual studio 2015\Projects\OperatorAsiriYukleme\OperatorAsiriYukleme\bin\Debug\OperatorAsiriYukleme.pdb
+c:\users\myvalley\documents\visual studio 2015\Projects\OperatorAsiriYukleme\OperatorAsiriYukleme\obj\Debug\OperatorAsiriYukleme.csprojResolveAssemblyReference.cache
+c:\users\myvalley\documents\visual studio 2015\Projects\OperatorAsiriYukleme\OperatorAsiriYukleme\obj\Debug\OperatorAsiriYukleme.exe
+c:\users\myvalley\documents\visual studio 2015\Projects\OperatorAsiriYukleme\OperatorAsiriYukleme\obj\Debug\OperatorAsiriYukleme.pdb
