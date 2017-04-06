@@ -218,7 +218,7 @@ namespace OperatorAsiriYukleme
             DiziCarp(boyut,carpma);
             DiziEsitmi(dizi1,dizi2);
 
-
+            Console.WriteLine("Yunus");
 
             Console.ReadKey();
 
